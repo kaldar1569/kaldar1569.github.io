@@ -1,0 +1,44 @@
+body
+{
+    /* background-color: #0000bb; /* #RRGGBB */
+    background-image: url(img/woodbackground.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#textEnhance
+{
+    color: limegreen;
+    background-image: none;
+    background-image: linear-gradient(red, blue);
+}
+h4
+{
+    color:aquamarine;
+}
+
+#lists
+{
+    color: #9224cd;
+    background-image: none;
+    background-image: linear-gradient(red, yellow);
+}
+
+#lists2
+{
+    color: #cd841a;
+    background-image: none;
+    background-image: linear-gradient(green, blue);
+}
+
+#lists3
+{
+    color: #2fcd65;
+    background-image: none;
+    background-image: linear-gradient(purple, orange);
+}
+
+h4
+{
+    color:aquamarine;
+}
